@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox5.Text" xml:space="preserve">
+    <value>Jika Andromax Prime gagal booting atau bahkan keadaanya mentok di mode recovery stok namun masih terdeteksi setelah dilakukan CHECK ADB maka masih ada harapan.
+
+INSTALL MIUI RECOVERY- PAKSA solusinya.
+
+Namun jika bootloop tanpa terdeteksi oleh CHECK ADB
+dan belum pasang MIUI Recovery maka saat ini hanya Flash 
+dengan CM2 Dongle atau direct ISP solusinya.
+
+INSTALL ROM - TANPA SDCARD
+Dengan satu kali klik maka Stok ROM Andromax Prime akan terinstall. Namun harus berada dalam mode MIUI Recovery untuk dapat melakukannya.</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Silahkan simak dan ikuti cara di bawah ini.
+
+Untuk mengaktifkan Tools silahkan klik CHECK ADB terlebih dahulu.
+
+Proses Root ini memerlukan SDCard yang dipasang ke Andromax Prime. Untuk dapat menghindari kejadian bootloop pada saat proses Root berjalan jangan pernah gunakan SDCard yang korup / rusak.
+
+Untuk menghubungkan Andromax Prime silahkan buka pengaturan ADB dari pemanggil dengan kode berikut :
+
+                                  * # * # 2 5 7 3 8 4 0 6 1 6 8 9 # * # *
+
+Kemudian klik CHECK ADB
+lalu ijinkan akses USB Debbugging saat diminta!
+
+Jika ditemukan error silahkan INSTAL DRIVER lalu coba lagi.
+
+Setelah selesai Root disarankan segera pasang MIUI Recovery
+agar Andromax Prime bisa diperbaiki / install melalui MIUI Recovery.</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>INSTALL  RECOVERY - MIUI Recovery Update 14/02/2023 - Fix mke2fs Bugs.
+Gunakan setelah sukses Root Andromax Prime.
+
+RECOVERY FOR DIAG
+Adalah stock recovery Andromax Prime yang dimodifikasi
+Untuk mengatur parameter Modem, NV, &amp; Jaringan Andromax Prime.
+
+REBOOT RECOVERY
+Untuk masuk ke mode Recovery dalam keadaan Andromax Prime hidup.
+
+BACK-UP ROM
+Untuk membackup atau untuk membuat salinan ROM saat ini dan menyimpannya sebagai data cadangan baik dengan atau tanpa SDCard.
+
+Hasil BACK-UP ROM tersebut dapat dipasang kembali dengan menggunakan fungsi RESTORE ROM dengan menggunakan file dari hasil backup yang telah disimpan sebelumnya.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Berikut adalah kumpulan Boot.img Andromax Prime yang 
+bisa digunakan untuk mengatasi permasalahan seperti : 
+
+- Kamera terbalik setelah ganti atau pasang custom rom;
+- Wi-Fi Bluetooth FM Radio tidak berfungsi;
+
+Yang mana semua itu terjadi akibat dari ketidakcocokan
+pada file boot.imgnya saja bukan karena faktor kerusakan
+mesin Andromax Primenya.
+
+Install dalam mode MIUI Recovery.</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Unlock Andromax Prime saat ini terdapat 2 Metode.
+
+UNLOCK BYPASS PIN - Mode MIUI Recovery
+Untuk mengatasi permasalahan permintaan PIN yang muncul pada saat pemasangan SIMCARD
+
+UNLOCK VoLTE - Mode Normal
+Untuk mengatasi permasalahan telepon, sms, dan cek pulsa.
+
+Keduanya dilakukan pada mode yang berbeda-beda. Untuk penggunaannya harap dilakuan 1x secara berurutan.</value>
+  </data>
+  <metadata name="WorkerADB.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="XtraMain.IconOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAVpJREFUOE+lkMFLwnAUx53bzNC0DZ3OwIl01C67DN0WhCzo0A6uMcRA0SDwMIiO
+        denQrVv/Rh2i/+/b+ylzJr9Do8GH9/bde9/33nL04J9wxSxwxSxwxSxsEkEQ1lGSJBQKhXVMclEUtw2s
+        jpHP5xMth263iyAI4DoOTNPEcDhEGIYYj8dwSFssFvB9H8vlErfTKaIogm3bqUG/34fnebAsC67rwhoM
+        MBqNcEE49D4ngziOsVqtMJlMMJ/N10O2Bsn6jANJxpWqwq9UcE086jpirY4OnZLUCLT+rxMS6nTznarg
+        o93GS0PDm95EUK3giQzOikWcyDJOyai4M5DYJMf0o95bOr4MA98dA59GGw+1GmaKQnoL56USLstl3FSr
+        OEynpwZM7NGUkApemw3c0xksPmsaXGo+ou9lgsWd5tQggRmxbVgu0aqM/Zo9uGIWuGIWuGIWuOIfyeEH
+        qwkqNmAgGlMAAAAASUVORK5CYII=
+</value>
+  </data>
+</root>
