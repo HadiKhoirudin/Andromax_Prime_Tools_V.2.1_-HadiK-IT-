@@ -1,0 +1,61 @@
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\Andromax Prime Tools V2.1.exe.config
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\Andromax Prime Tools V2.1.exe.manifest
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\Andromax Prime Tools V2.1.application
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\Andromax Prime Tools V2.1.exe
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\Andromax Prime Tools V2.1.pdb
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\MetroFramework.Design.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\MetroFramework.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax_Prime_Tools_V.2.1_[HadiK-IT].csproj.AssemblyReference.cache
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax.Properties.Resources.resources
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax.XtraMain.resources
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax_Prime_Tools_V.2.1_[HadiK-IT].csproj.GenerateResource.cache
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.exe.licenses
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax_Prime_Tools_V.2.1_[HadiK-IT].csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.TrustInfo.xml
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.exe.manifest
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.application
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax_Prime_Tools_V.2.1_[HadiK-IT].csproj.CopyComplete
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.exe
+C:\Users\email\source\repos\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\Andromax_Prime_Tools_V.2.1_[HadiK-IT]\obj\Debug\Andromax Prime Tools V2.1.pdb
